@@ -1,0 +1,19 @@
+.input-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+}
+
+button{
+    background-color: rebeccapurple;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+img{
+    max-width: 80vw;
+}

@@ -1,0 +1,4 @@
+git init
+git add <name of file> (to stage)
+git status
+git rm --cached <name of file> (to unstage)
