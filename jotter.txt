@@ -8,5 +8,5 @@ git status
 git rm --cached <name of file> (to unstage)
 git add . (stage all)
 
-
 COMMIT STAGE
+git commit -m "message goes here..."
